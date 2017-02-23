@@ -1,0 +1,45 @@
+{
+    "name": "modelproxy-engine-dubbo",
+    "version": "0.2.2",
+    "description": "modelproxy-engine-dubbo",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "node test",
+        "build": "grunt build "
+    },
+    "bugs": {
+        "url": "https://github.com/nick121212/modelproxy-engine-dubbo/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nick121212/modelproxy-engine-dubbo.git"
+    },
+    "homepage": "https://github.com/nick121212/modelproxy-engine-dubbo#readme",
+    "keywords": [
+        "modelproxy",
+        "engine",
+        "dubbo",
+        "javascript",
+        "typescript",
+        "generator-modelproxy",
+        "modelproxy"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "bluebird": "^3.4.7",
+        "hessian.js": "^2.2.1",
+        "ip": "^1.1.4",
+        "json-pointer": "^0.6.0",
+        "lodash": "^4.17.4",
+        "modelproxy": "^0.4.0",
+        "node-zookeeper-client": "^0.2.2",
+        "urijs": "^1.18.7"
+    },
+    "devDependencies": {
+        "include-all": "^3.0.1",
+        "ts-loader": "^2.0.0",
+        "typescript": "^2.1.6",
+        "webpack": "^2.2.1"
+    }
+}

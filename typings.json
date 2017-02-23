@@ -1,0 +1,13 @@
+{
+    "name": "modelproxy-engine-dubbo",
+    "globalDependencies": {
+        "json-schema": "registry:lib/json-schema#4.0.0+20160723033700",
+        "node": "registry:dt/node#7.0.0+20170110233017",
+        "urijs": "registry:dt/urijs#1.15.1+20161119044246"
+    },
+    "dependencies": {
+        "bluebird": "registry:npm/bluebird#3.4.1+20160909132857",
+        "lodash": "registry:dt/lodash#4.14.0+20170130182125",
+        "json-pointer": "registry:dt/json-pointer#1.0.0+20161229235626"
+    }
+}

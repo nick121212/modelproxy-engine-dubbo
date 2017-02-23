@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/c4cee4d79eb3b6d8eb5e99424913ea5af103ec10/node-zookeeper-client/index.d.ts",
+    "raw": "registry:dt/node-zookeeper-client#0.2.0+20170126120115",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/c4cee4d79eb3b6d8eb5e99424913ea5af103ec10/node-zookeeper-client/index.d.ts"
+  }
+}
