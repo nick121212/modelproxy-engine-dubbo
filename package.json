@@ -1,6 +1,6 @@
 {
     "name": "modelproxy-engine-dubbo",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "modelproxy-engine-dubbo",
     "main": "dist/index.js",
     "scripts": {

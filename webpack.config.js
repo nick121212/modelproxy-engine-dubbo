@@ -11,7 +11,7 @@ module.exports = {
     output: {
         path: __dirname + '/dist',
         filename: 'index.js',
-        libraryTarget: 'umd'
+        libraryTarget: 'commonjs'
     },
     node: {
         "child_process": "empty"
@@ -40,6 +40,10 @@ module.exports = {
             }
         },
         "node-zookeeper-client",
+        "json-pointer",
+        "hessian.js",
+        "bluebird",
+        "urijs",
         {
             "lodash": {
                 root: "_",
